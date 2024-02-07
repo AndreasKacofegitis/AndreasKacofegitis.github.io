@@ -235,7 +235,8 @@ Transparency seems to be an anaemic term that recieves liberal use but little co
 
 <div align=center>
 <img src="./General images/stoolOfTransparency.drawio.png" width=150>
-<figcaption>Sitting on the stool of Transparency</figcaption>
+
+    <em>Sitting on the stool of Transparency</em>
 </div>
 
 To be fair, it is simply impossible to be 100% transparent.  If not only because we all have our biases and these biases necessarily affect the portrayal of the disseminated information.  
